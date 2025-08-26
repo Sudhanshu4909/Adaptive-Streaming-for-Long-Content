@@ -24,8 +24,7 @@ A Node.js application that converts video files to adaptive HLS (HTTP Live Strea
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd video-processing-service
+git clone <https://github.com/Sudhanshu4909/Adaptive-Streaming-for-Long-Content.git>
 ```
 
 2. Install dependencies:
