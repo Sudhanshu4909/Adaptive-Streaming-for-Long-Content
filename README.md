@@ -200,6 +200,3 @@ Enable detailed logging by setting the log level:
 export DEBUG="*"
 ```
 
-## Support
-
-[Add support information here]
